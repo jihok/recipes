@@ -10,7 +10,7 @@ categories: main
 ![jihok-jamaican-jerk-chicken](http://www.jocooks.com/wp-content/uploads/2015/03/jamaican-jerk-chicken-lettuce-wraps-4.jpg)
 
 ## Original Author
-Jo Cooks
+[@Jo Cooks](http://www.jocooks.com/healthy-eating/jamaican-jerk-chicken-lettuce-wraps/)
 
 ### Ingredients
 - 8 lettuce leaves, I used Boston lettuce, but iceburg lettuce works
